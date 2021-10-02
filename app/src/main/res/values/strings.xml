@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidKeyJp</string>
+    <string name="app_label">AndroidKeyJp</string>
+    <string name="keyboard_layout_label">User keyboard</string>
+    <string name="keyboard_layout_japanese">Japanese</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard-layouts xmlns:android="http://schemas.android.com/apk/res/android">
+<keyboard-layout android:name="android_jp_key" android:label="@string/app_name" android:keyboardLayout="@raw/android_jp_key" />
+</keyboard-layouts>
