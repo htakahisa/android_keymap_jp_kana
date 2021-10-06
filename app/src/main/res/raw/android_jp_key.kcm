@@ -26,12 +26,14 @@ key GRAVE {
 }
 
 key HENKAN {
-    base:                               fallback ZENKAKU_HANKAKU
+    base:                               fallback SWITCH_CHARSET
 }
 
 key ZENKAKU_HANKAKU {
     base:                               none
 }
+
+
 
 
 key 1 {
